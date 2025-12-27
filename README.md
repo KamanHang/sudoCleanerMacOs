@@ -1,6 +1,13 @@
-# Keyboard Kaddy - Swift Edition
+# SudoCleaner 
 
 A macOS app for helping you clean your keyboard by disabling keyboard input during cleaning sessions.
+
+## Why I created this APP
+- Frustration: Keys triggers due while cleaning keyboard.
+- Can't Disable Keyboard while cleaning
+- Locking Screen may be but random password attempt lead to disable of the Mac Account.
+- Shutdown won't work as any key press triggers mac to boot itself.
+- Yes APP Store has a lot of APPs but privacy concerns is priority as I have no idea what is running behid those apps. So I built it myself.
 
 ## Features
 
