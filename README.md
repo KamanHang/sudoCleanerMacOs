@@ -12,11 +12,9 @@ A macOS app for helping you clean your keyboard by disabling keyboard input duri
 ## Features
 
 - 🧹 Start/stop cleaning mode with a single click
-- ⏱️ Timer to track cleaning duration
 - ⌨️ Keyboard input disabled during cleaning
-- 🎯 Triple ESC to quickly exit cleaning mode
-- 💡 Helpful cleaning tips that cycle during cleaning
 - ✨ Beautiful animations and UI
+- ✨ Less Space
 
 ## Requirements
 
@@ -50,6 +48,6 @@ A macOS app for helping you clean your keyboard by disabling keyboard input duri
 ## Notes
 
 - The app uses NSEvent monitoring to intercept keyboard events during cleaning mode
-- Toast notifications appear at the top of the window
-- The UI matches the original React/TypeScript version
+- Toast notifications appear at the bottom right of the window
+
 
