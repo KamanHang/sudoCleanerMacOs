@@ -2,6 +2,9 @@
 
 A macOS app for helping you clean your keyboard by disabling keyboard input during cleaning sessions.
 
+![clean](https://github.com/user-attachments/assets/7f41c600-fdcd-4194-827d-86ac4e18d14a)
+
+
 ## Why I created this APP
 - Frustration: Keys triggers while cleaning keyboard.
 - Can't Disable Keyboard while cleaning.
